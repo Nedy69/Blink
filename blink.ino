@@ -12,7 +12,10 @@ Thats it. IDIOT.
 */
 
 
-
+#include <servo.h>                 //include some useless libraries 
+#include <EEPROM.h>
+#include <RBD_Timer.h>
+#include <RBD_Light.h>
 
 #define LED 2
 
